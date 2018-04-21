@@ -10,11 +10,12 @@ April 27, 2018
 Derek Labios
 
 ### Project Description:
+We assigned to connect TMDB using ajax.
 
 ### View Project:
-
+https://labios0970.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to request an API key.
+2. I learned how to use an API key to connect it to my website.
+3. I learned how to display the search results onto my HTML document.
